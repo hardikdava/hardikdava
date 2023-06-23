@@ -1,14 +1,34 @@
-<h1 align="center">Hi 👋, I'm Hardik</h1>
-<h3 align="center">A passionate AI developer</h3>
+Highly skilled and innovative Computer Vision Engineer with a strong background in developing cutting-edge solutions for image and video analytics. Experienced in leveraging deep learning, machine learning, and computer vision algorithms to tackle complex problems in various industries. Passionate about advancing the field of computer vision and driving impactful applications in areas such as medical imaging, and augmented reality.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="cplusplus" width="40" height="40"/>   </a>      
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="110" height="40"/></a>
- <a href="https://www.tornadoweb.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.tornadoweb.org/en/stable/_images/tornado.png" alt="tornado" width="150" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+**Machine Learning Frameworks:**
+
+Pytorch | Tensorflow | ONNX | TensorflowLite | OpenCV | PCL | Open3D | Tensorrt | PyCoral | OpenVino 
+
+**Computer Vision Tasks:**
+
+image classification | object detection | image segmentation | synthetic data genertion
+
+**Progrmming Languages:**
+
+Python | C++ | C (micro-controllers)
+
+**Web Developement:**
+
+Tornado | Flask | FastAPI
+
+**User Interface:**
+
+Qt | Streamlit | Gradio | HTML
+
+**Opensource contributions:**
+
+CVAT | YoloV5 | YoloV7 | YoloV8 | Supervision | Ultimate Labelling | EyeQ 
+
+**Edge Devices:**
+
+Upboards | EdgeTPU | Jetson | Raspberry Pi | Luxonis OAK Devices | Myriad X
+
+**Others:**
+
+DevOps | MLOps | Git | DVC
