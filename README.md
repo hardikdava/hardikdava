@@ -23,7 +23,7 @@ Qt | Streamlit | Gradio | HTML
 
 **Opensource contributions:**
 
-CVAT | YoloV5 | YoloV7 | YoloV8 | Supervision | Ultimate Labelling | EyeQ 
+CVAT | YoloV5 | YoloV7 | YoloV8 | Supervision | Ultimate Labelling | EyeQ | EyeQ-Foundation
 
 **Edge Devices:**
 
