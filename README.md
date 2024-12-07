@@ -1,34 +1,37 @@
-Highly skilled and innovative Computer Vision Engineer with a strong background in developing cutting-edge solutions for image and video analytics. Experienced in leveraging deep learning, machine learning, and computer vision algorithms to tackle complex problems in various industries. Passionate about advancing the field of computer vision and driving impactful applications in areas such as medical imaging, and augmented reality.
+Highly skilled and innovative Computer Vision Engineer with expertise in designing and deploying cutting-edge solutions for image and video analysis. Adept at leveraging deep learning, machine learning, and computer vision algorithms to solve complex challenges across industries. Passionate about advancing the field of computer vision and enabling impactful applications in domains like medical imaging and augmented reality.
 
 
-**Machine Learning Frameworks:**
+Machine Learning Frameworks: 
 
-Pytorch | Tensorflow | ONNX | TensorflowLite | OpenCV | PCL | Open3D | Tensorrt | PyCoral | OpenVino 
+Pytorch | Tensorflow | ONNX | TensorflowLite | OpenCV | PCL | Open3D | Tensorrt | PyCoral | OpenVino
 
-**Computer Vision Tasks:**
+Computer Vision Tasks:
 
-image classification | object detection | image segmentation | synthetic data genertion
+Neural radiance field | 3D gaussian splatting | Diffusion Models | image classification | object detection | image segmentation 2D/3D | synthetic data genertion | Novel view synthesis 
 
-**Progrmming Languages:**
+Progrmming Languages:
 
-Python | C++ | C (micro-controllers)
+Python | Typescript| C++ | C (micro-controllers)
 
-**Web Developement:**
+Web Developement:
 
 Tornado | Flask | FastAPI
 
-**User Interface:**
+User Interface:
 
-Qt | Streamlit | Gradio | HTML
+Typescript React | Viser| Qt | Streamlit | Gradio | HTML
 
-**Opensource contributions:**
+Others:
 
-CVAT | YoloV5 | YoloV7 | YoloV8 | Supervision | Ultimate Labelling | EyeQ | EyeQ-Foundation | CVAT Plugins | Label-studio ML Backend | YoloExplorer
+DevOps | MLOps | Git | DVC
 
-**Edge Devices:**
+Opensource contributions:
+
+Supervision | CVAT | YoloV5 | YoloV7 | YoloV8 | Trolo | Ultimate Labelling | EyeQ | Nerfstudio | StableNormal
+ 
+EdgeDevices:
 
 Upboards | EdgeTPU | Jetson | Raspberry Pi | Luxonis OAK Devices | Myriad X
 
-**Others:**
 
-DevOps | MLOps | Git | DVC
+Github profile: https://github.com/hardikdava/
